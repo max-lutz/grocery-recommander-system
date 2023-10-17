@@ -22,3 +22,12 @@ if __name__ == "__main__":
 
     for file in files:
         download_file(directory="../data/raw", filename=file)
+
+
+https://medium.com/codex/creating-a-multifaceted-grocery-recommender-system-c394208f5e0b
+https://github.com/melodygr/grocery_recommendation
+https://machinelearningmastery.com/using-singular-value-decomposition-to-build-a-recommender-system/
+
+
+
+https://www.udemy.com/course/machinelearning/learn/lecture/19799886#overview
